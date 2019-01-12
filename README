@@ -1,0 +1,25 @@
+# Salome Docker image
+
+The Salome Docker image is currently based on Ubuntu and at the moment available for nvidia GPU (optirun excluded) and Intel CPU graphics.
+
+
+# Usage
+
+```bash
+./run.sh latest salome
+```
+
+
+# Tags
+
+ * **latest**: Latest Salome Version
+ * **x.x.x**: Salome Version x.x.x
+
+
+# Contribute
+
+Feel free to contribute and add something.
+Actually tasks are:
+ * AMD GPU Support
+ * Fix actually occur Error Messages from Salome
+
